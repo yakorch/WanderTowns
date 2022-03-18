@@ -20,5 +20,5 @@ Printing the info about the town helps user to navigate his future decisions:
               
 Keep an eye on your characteristics to develop the best strategy. Have fun!                     
 
-
-Run my_main.py module with my_game.py in the same folder and try it by yourself.
+                
+                Run my_main.py module with my_game.py in the same folder and try it by yourself.
