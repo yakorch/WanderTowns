@@ -191,7 +191,7 @@ towns_str = [el.town for el in towns]
 cur_town = random.choice(towns)
 
 def rules_input():
-    print("Possible options for input are 'hotel', 'shop', 'go', 'gas'. Second input - name of the object to interrupt with")
+    print("Possible options for input are 'hotel', 'shop', 'go', 'gas'. Second input - name of the object to interact with")
 
 
 def character_attr():
