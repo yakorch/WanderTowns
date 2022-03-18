@@ -14,11 +14,12 @@ Classes written (in my_game.py module) for the game have such functionality:
               
                   
 All towns are: Lviv, Drohobych, Lutsk, Ternopil, Ivano-Frankivsk, Rivne, Khmelnytskyi, Vinnytsia, Zhytomyr.                             
-Printing the info about the town helps user to navigate his future decisions:         
-![Знімок екрана 2022-03-18 о 13 32 03](https://user-images.githubusercontent.com/92575094/158996599-571568de-923d-469f-9317-a62b65f8faed.png)           
+Printing the info about the town helps user to navigate his future decisions:                   
+                        
+![Знімок екрана 2022-03-18 о 13 39 20](https://user-images.githubusercontent.com/92575094/158996744-2a237499-8c14-4f9d-a96b-9140db2e749d.png)
 
-      
-              
+                
+                
 Keep an eye on your characteristics to develop the best strategy. Have fun!                     
 
                 
