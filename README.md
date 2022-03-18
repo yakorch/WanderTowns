@@ -6,7 +6,7 @@ You can use different vehicles and must sleep at least two times.
 Interaction with objects (hotels, shops, gas stations, vehicles) might change your happiness, keep it > 0.        
 
 
-Classes written for the game have such functionality:
+Classes written for the game have such functionality:                           
         Hotel - to sleep and have breakfast, has different prices.      
         Shop - player can buy food to postpone death.         
         Gas stations - buy fuel, find vehicles, or sell the fuel to gain money.                                         
